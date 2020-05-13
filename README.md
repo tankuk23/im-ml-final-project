@@ -1,5 +1,5 @@
 # im-ml-final-project
-Repository of work for Final Project of ML Course from Graz
+Repository of work for Final Project Iain Miller submitted to ML Course from Graz
 
 A simple analysis of some League of Legends datasets that tries to find significant factors and create a model to predict the outcome of a battle from the game stats.
 
